@@ -1,0 +1,10 @@
+https://dev-api.newage.market/platform/api/usercategories
+
+https://dev-api.newage.market/platform/api/usersubcategories
+payload : {"catid":3}
+
+
+https://dev-platform.newage.market/signup
+
+image src
+https://dev-platform.newage.market/assets/images/logos/name-logo.svg
