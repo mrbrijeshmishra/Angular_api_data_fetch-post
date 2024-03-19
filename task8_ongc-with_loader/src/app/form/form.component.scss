@@ -1,0 +1,21 @@
+.form-section{
+    background-color: #fff;
+    border-radius: 12px;
+    padding: 25px;
+}
+
+.register-text{
+    font-size: 13px;
+}
+
+input.ng-touched.ng-invalid{
+    border-color: red;
+}
+
+span{
+    color: red;
+}
+
+.first-img{
+    width: 90%;
+}
